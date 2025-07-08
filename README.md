@@ -1,5 +1,7 @@
 # Spotted-Cat-Image-Classifier
 The Spotted Cat Image Classifier is a deep learning project focused on identifying and classifying images of spotted cats, specifically leopards, jaguars, and cheetahs. Using computer vision techniques, this tool automates the detection and differentiation of these species.
+![Uploading image.png…]()
+
 **Motivation**
 As an enthusiast of wildlife and machine learning, I created the Spotted Cat Image Classifier to address a unique challenge: distinguishing between leopards, jaguars, and cheetahs. Even humans often struggle to differentiate these yellow-spotted creatures due to their similar appearances. This project leverages deep learning to automate and refine this classification, supporting conservationists, researchers, and animal lovers in accurately identifying these majestic big cats.
 **Dataset:**
