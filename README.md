@@ -14,11 +14,13 @@ https://www.kaggle.com/datasets/sonilnegi/spotted-cats-images/data
 2. Technical Implementation: Utilizes advanced techniques like transfer learning with MobileNet architecture for efficient model performance and data augmentation to enhance generalization and prevent overfitting.
 
 **Methods Used**
+
 • Convolutional Neural Networks
 • Transfer learning
 • Data Augmentation
 
 **Technologies**
+
 • Python
 • Pandas, matplotlib, tensorflow, pathlib
 • mobilenet_v2
