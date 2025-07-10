@@ -16,9 +16,7 @@ https://www.kaggle.com/datasets/sonilnegi/spotted-cats-images/data
 **Methods Used**
 
 • Convolutional Neural Networks
-
 • Transfer learning
-
 • Data Augmentation
 
 **Technologies**
