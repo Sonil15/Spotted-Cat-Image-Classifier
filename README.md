@@ -3,8 +3,7 @@ The Spotted Cat Image Classifier is a deep learning project focused on identifyi
 ![image](https://github.com/user-attachments/assets/816e99e0-bee6-4fb4-b3e5-8db5415a1979)
 
 <!-- Grad-CAM placeholder -->
-![Grad-CAM: model focus visualization](<img width="1025" height="790" alt="image" src="https://github.com/user-attachments/assets/977850c6-f442-4df8-82e1-9ba07e938943" />
-)
+![Grad-CAM: model focus visualization](https://github.com/user-attachments/assets/962c3a66-f9d0-4b7b-bca0-a06fe50d4ab5")
 
 **Motivation**
 
